@@ -15,7 +15,7 @@
   "author": "Rafael Pedicini <rafael@rafgraph.dev>",
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-interactive": "^0.9.5",
